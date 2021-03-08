@@ -1,0 +1,25 @@
+.wrapper {
+  width: 100%;
+  max-width: 300px;
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.input_container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  width: 220px;
+  height: 25px;
+}
+
+.icon_add {
+  width: 32px;
+  height: 32px;
+  margin: 12px;
+}
