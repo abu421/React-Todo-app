@@ -16,7 +16,7 @@ const Input = ({input, setInput, list, setList}) => {
 
     return (
         <div className="wrapper">
-            <h3>Welcomeyyyy!</h3>
+            <h2>Welcome!!</h2>
             <p>Please add items to your list:</p>
 
             <div className="input_container">
